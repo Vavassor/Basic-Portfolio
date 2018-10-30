@@ -41,7 +41,7 @@ p {
 }
 
 .contact-entry {
-    margin-bottom: 1em;
+    margin-top: 1em;
 }
 
 .contact-input {
@@ -54,6 +54,7 @@ p {
 }
 
 .contact-submit {
+    margin: 2em 0 0 0;
     padding: 0.5em 1.5em;
     background-color: #4aaaa5;
     color: #fff;
